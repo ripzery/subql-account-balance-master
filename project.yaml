@@ -1,6 +1,6 @@
 specVersion: 0.0.1
-description: ''
-repository: ''
+description: "subql to the moon"
+repository: ""
 schema: ./schema.graphql
 network:
   endpoint: wss://polkadot.api.onfinality.io/public-ws
